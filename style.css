@@ -1,18 +1,80 @@
-. {
-    background-color: aqua;
+.f {
+    background-color: red;
 }
-
-.a h1 {
-    background-color:blueviolet
+.f h1 {
+    text-align: center;
+    font-size: 48px;
+    background-color:  lightcoral;
+    color: aqua;
 }
-
-.a img
- {
-    background-color: darkgoldenrod;
- }
-
- .a 
- {
-    background-color: darkolivegreen;
- }
-
+.f img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 200px;
+    width: 350px;
+}
+.p {
+    background-color: purple;
+}
+.p h1 {
+    text-align: center;
+    font-size: 48px;
+    background-color: lightcoral;
+    color: lightpink;
+}
+.p img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 200px;
+    width: 350px;
+}
+.k {
+    background-color: midnightblue;
+}
+.k img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 200px;
+    width: 350px;
+}
+.k h1 {
+    text-align: center;
+    font-size: 48px;
+    background-color: mediumseagreen;
+    color:hotpink;
+}
+.c {
+    background-color: burlywood;
+}
+.c h1 {
+    text-align: center;
+    font-size: 45px;
+    background-color: lawngreen;
+    color: aqua;
+}
+.c img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 200px;
+    width: 350px;
+}
+.b {
+    background-color:chartreuse;
+}
+.b h1 {
+    text-align: center;
+    font-size: 48px;
+    background-color: maroon;
+    color: lightpink;
+}
+.b img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 200px;
+    width: 200px;
+}
